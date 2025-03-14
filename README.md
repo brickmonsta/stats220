@@ -20,7 +20,7 @@ I really enjoy listening to music and my top three favorite artists are:
 2. *Daniel Caesar*
 3. *SZA*
 
-An activity I like doing often is playing chess on **[chess.com](chess.com)**.
+An activity I like doing often is playing chess on **[chess.com](https://www.chess.com/)**.
 Despite all the games I play and puzzles I do, I still fall for the **backrank mate** and when I do, this is how I feel.
 
 ![batman](https://media1.tenor.com/m/q5lclIwwwdUAAAAC/rage.gif)
