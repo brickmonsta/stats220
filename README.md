@@ -14,13 +14,6 @@ A meme that captures how I currently feel about my university studies is
 
 ### A little more about me:
 
-I really enjoy listening to music and my top three favorite artists are:
 
-1. *Kendrick Lamar*
-2. *Daniel Caesar*
-3. *SZA*
 
-An activity I like doing often is playing chess on **[chess.com](https://www.chess.com/)**.
-Despite all the games I play and puzzles I do, I still fall for the **backrank mate** and when I do, this is how I feel.
-
-![batman](https://media1.tenor.com/m/q5lclIwwwdUAAAAC/rage.gif)
+![angry](https://media1.tenor.com/m/q5lclIwwwdUAAAAC/rage.gif)
