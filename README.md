@@ -4,16 +4,15 @@
 
 ### A little about me:
 
-* I am undertaking a degree in a conjoint in BA stats and BSC computer science.
-* I am taking STATS 220 because it's a prerequisite course for a stage three course I want to take.
-* I am interested in learning about both programming and stats work together to produce an outcome.
+* I am undertaking a **conjoint degree** in **BA Statistics** and **BSc Computer Science**.
+* I am taking *STATS 220* because it's a prerequisite course for a stage three course I want to take.
+* I am interested in learning how both **programming** and **statistics** work together to produce an outcome.
 
 A meme that captures how I currently feel about my university studies is 
 
-![base_meme](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+![sad emoji](https://media1.tenor.com/m/Bi5t9IXWlEkAAAAd/funny-sad-emoji-getting-disintegrated-into-dust.gif)
 
-### A little more about me:
-
-
-
-![angry](https://media1.tenor.com/m/q5lclIwwwdUAAAAC/rage.gif)
+### Useful Resources:
+1. *R Code*: [W3Schools](https://www.w3schools.com/r/)
+2. *Markdown*: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+3. *R Packages*: [CRAN Packages](https://cran.r-project.org/web/packages/available_packages_by_name.html)
