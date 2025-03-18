@@ -12,7 +12,14 @@ A meme that captures how I currently feel about my university studies is
 
 ![sad emoji](https://media1.tenor.com/m/Bi5t9IXWlEkAAAAd/funny-sad-emoji-getting-disintegrated-into-dust.gif)
 
+### My Favourite Books:
+1. The Alchemist
+2. The Setting Sun
+3. Dune
+
 ### Useful Resources:
 1. *R Code*: [W3Schools](https://www.w3schools.com/r/)
 2. *Markdown*: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 3. *R Packages*: [CRAN Packages](https://cran.r-project.org/web/packages/available_packages_by_name.html)
+
+![read](https://media1.tenor.com/m/_V8TTKAXYB0AAAAC/spongebob-squarepants-sunglasses.gif)
