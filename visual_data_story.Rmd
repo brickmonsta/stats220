@@ -1,0 +1,95 @@
+---
+title: Push-Up Journey
+output: html_document
+---
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
+```
+
+```{js}
+$(function() {
+  $(".level2").css('visibility', 'hidden');
+  $(".level2").first().css('visibility', 'visible');
+  $(".container-fluid").height($(".container-fluid").height() + 300);
+  $(window).on('scroll', function() {
+    $('h2').each(function() {
+      var h2Top = $(this).offset().top - $(window).scrollTop();
+      var windowHeight = $(window).height();
+      if (h2Top >= 0 && h2Top <= windowHeight / 2) {
+        $(this).parent('div').css('visibility', 'visible');
+      } else if (h2Top > windowHeight / 2) {
+        $(this).parent('div').css('visibility', 'hidden');
+      }
+    });
+  });
+})
+```
+
+```{css}
+.figcaption {display: none}
+body {
+  background-color: #f0f0f0;
+  color: #636363;
+  font-family: sans-serif;
+  line-height: 25px;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: #636363;
+  border-bottom: 1px solid #bdbdbd;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #bdbdbd;
+  margin: 30px 0;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  border: 1px solid #bdbdbd;
+}
+```
+
+## Road to strong man.
+This is a analysis on my Push-up journey where every time I completed a set of push-ups, I logged it with a Google survey and published it into a google spreadsheet.
+
+data was collected over two weeks which are approximately one month apart where I had completed and logged 42 sets of push-ups.
+## Does difficulty correlate to more reps?
+Ordered from lowest to highest median reps, it seems that at difficulty 4, I often did the most reps.
+![](plot1.png)
+The hardest difficulty median reps completed is actually in the middle significantly lower than difficulty 2. When we look at the variation however, difficulty 5 has much more variation compared to the others. This is largely due to the variant of pus-hup where the harder variants become much harder much quicker.
+
+## Have I improved over time?
+Looking at all the data, it seems that yes, I have improved in the second week.
+![](plot2.png)
+The trend is much steeper with the alternative variants to the normal push up. This could be due to me getting used to the different variants where I get much better the more often I do it. But as you can see, the normal didn't improve that much. This sort of indicates to me that the amount you do for every variant over time is a bit of a log curve where you do a lot at when you first learn but after that you only get slightly better.
+
+## Looking a bit closer
+Compared to the overall data, it seems that the last week, I had gotten worse?
+![](plot3.png)
+Looking at this data, we see that we actually got worse overtime in the last week. Data collection was actually going well at the start but during the week I had gotten sick so it became diffucult to complete more reps.
+
+## Does the hour of the day matter?
+
+The data appears to not really have a trend where I was quite consistent with the amount push-ups completed at any time of the day.
+![](plot4.png)
+There doesn't seem to be any data to suggest that if I do push-ups in the morning vs afternoon, I would be able to rep more.
+
+## In Conclusion
+
+From this experience, I was able to learn that I need to complete more push-ups. Its as simple as that, to get better at push-ups I just need to do more push-ups and with proper form, I can do even more.
+![](bob.png)
+
+
